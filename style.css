@@ -1,0 +1,22 @@
+/* Write your code here: */
+
+body {
+    color: blueviolet;
+}
+
+div > p[class="done"] {
+    color: red;
+}
+
+ul > p {
+    color: black;
+}
+
+li {
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    color: black                    
+}
